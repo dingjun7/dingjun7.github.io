@@ -7,17 +7,17 @@ papers:
     code: "https://github.com/RUCKBReasoning/CoT-KA"
     selected: y
 
-  - title: "Balanced Influence Maximization in the Presence of Homophily"
-    authors: "Md Sanzeed Anwar, <b>Martin Saveski</b>, Deb Roy"
-    venue: "WSDM'21: International Conference on Web Search and Data Mining"
-    paper_pdf: "/assets/publications/2021_balanced_inf_max/paper.pdf"
-    code: "https://github.com/sanzeed/balanced_influence_maximization"
-    data: "https://github.com/sanzeed/balanced_influence_maximization"
-    selected: n
+  # - title: "Balanced Influence Maximization in the Presence of Homophily"
+  #   authors: "Md Sanzeed Anwar, <b>Martin Saveski</b>, Deb Roy"
+  #   venue: "WSDM'21: International Conference on Web Search and Data Mining"
+  #   paper_pdf: "/assets/publications/2021_balanced_inf_max/paper.pdf"
+  #   code: "https://github.com/sanzeed/balanced_influence_maximization"
+  #   data: "https://github.com/sanzeed/balanced_influence_maximization"
+  #   selected: n
 
-  - title: "Automatic Construction of Wordnets by Using Machine Translation and Language Modeling"
-    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
-    venue: "In Proceedings of Seventh Language Technologies Conference. 2010."
-    paper_pdf: "/assets/publications/2010_wordnet_construction/paper.pdf"
-    slides: "/assets/publications/2010_wordnet_construction/slides.pdf"
-    selected: n
+  # - title: "Automatic Construction of Wordnets by Using Machine Translation and Language Modeling"
+  #   authors: "<b>Martin Saveski</b>, Igor Trajkovski"
+  #   venue: "In Proceedings of Seventh Language Technologies Conference. 2010."
+  #   paper_pdf: "/assets/publications/2010_wordnet_construction/paper.pdf"
+  #   slides: "/assets/publications/2010_wordnet_construction/slides.pdf"
+  #   selected: n
