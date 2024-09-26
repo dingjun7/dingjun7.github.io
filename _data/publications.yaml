@@ -1,6 +1,6 @@
 papers:
 
-  - title: "Embedding Societal Values into Social Media Algorithms"
+  - title: "Chain of thought prompting elicits knowledge augmentation"
     authors: "<b>Dingjun Wu</b>, Jing Zhang and Xinmei Huang."
     venue: "ACL Findings 2023"
     paper_pdf: "https://aclanthology.org/2023.findings-acl.408.pdf"
