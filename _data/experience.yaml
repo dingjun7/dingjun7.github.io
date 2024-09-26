@@ -3,7 +3,8 @@ experiences:
 - place: "Meituan Ltd."
   time: "07/2023 – 06/2024"
   title: "NLP Engineer"
-  subtitle: "Intent Recognition"
+  subtitle: "Dept. of Speech Interaction"
+  # subtitle: "Focus: Intent Recognition"
   category: "work"
 
 - place: "Tsinghua University"
@@ -15,7 +16,8 @@ experiences:
 - place: "Renmin University of China"
   time: "07/2022 – 01/2023"
   title: "Research Assistant"
-  subtitle: "Advised by Jing Zhang <br/> Chain-of-Thought <br/>"
+  # subtitle: "Advised by Jing Zhang <br/> Research topic: Chain-of-Thought <br/>"
+  subtitle: "Advised by Jing Zhang"
   category: "work"
 
 - place: "Baidu Research"
