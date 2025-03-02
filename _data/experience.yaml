@@ -1,5 +1,11 @@
 experiences:
 
+- place: "Tsinghua University"
+  time: "07/2023 – 06/2024"
+  title: "Research Assistant"
+  subtitle: "Natural Language Processing Lab (THUNLP)"
+  category: "work"
+
 - place: "Meituan Ltd."
   time: "07/2023 – 06/2024"
   title: "NLP Engineer"
@@ -15,19 +21,13 @@ experiences:
 
 - place: "Renmin University of China"
   time: "07/2022 – 01/2023"
-  title: "Research Assistant"
+  title: "Research Intern"
   # subtitle: "Advised by Jing Zhang <br/> Research topic: Chain-of-Thought <br/>"
   subtitle: "Advised by Jing Zhang"
   category: "work"
 
 - place: "Baidu Research"
   time: "01/2022 – 06/2022"
-  title: "NLP Research, Intern"
+  title: "Research Intern"
   # subtitle: "Advised by Xin Wang <br/> Text Reasoning <br/>"
   category: "work"
-
-- place: "Hangzhou City University"
-  time: "2015 - 2019"
-  title: "B.A. Student"
-  subtitle: "Finance"
-  category: "school"
